@@ -16,8 +16,8 @@
   <a href="https://github.com/NepaliSource/NepaliLang/releases">
     <img src="https://img.shields.io/github/v/release/NepaliSource/NepaliLang" alt="Release">
   </a>
-  <a href="https://nepalisource.github.io/NepaliLang/">
-    <img src="https://img.shields.io/website/nepalisource.github.io/NepaliLang?style=flat-square" alt="Website">
+  <a href="https://github.com/NepaliSource/NepaliLang/actions/workflows/deploy-docs.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/NepaliSource/NepaliLang/deploy-docs.yml?branch=main&label=Docs%20build" alt="Documentation workflow status">
   </a>
 </p>
 
@@ -38,16 +38,14 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NepaliSource.NepaliLang&left_text=Visitors&left_color=101827&right_color=dc143c" alt="Repository visitor counter">
+  <img src="https://img.shields.io/github/stars/NepaliSource/NepaliLang?label=Stars&color=dc143c" alt="Repository stars">
+  <img src="https://img.shields.io/github/forks/NepaliSource/NepaliLang?label=Forks&color=2b6cb0" alt="Repository forks">
+  <img src="https://img.shields.io/github/issues/NepaliSource/NepaliLang?label=Issues&color=f59e0b" alt="Open issues">
+  <img src="https://img.shields.io/github/issues-pr/NepaliSource/NepaliLang?label=Pull%20requests&color=2ea043" alt="Open pull requests">
   <img src="https://img.shields.io/github/commit-activity/y/NepaliSource/NepaliLang?label=Activity&color=2ea043" alt="Yearly commit activity">
   <img src="https://img.shields.io/github/last-commit/NepaliSource/NepaliLang?label=Updated&color=2b6cb0" alt="Last commit">
   <img src="https://img.shields.io/github/repo-size/NepaliSource/NepaliLang?label=Repo%20size&color=6f42c1" alt="Repository size">
 </p>
-
-<p align="center">
-  <a href="https://github.com/NepaliSource/NepaliLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NepaliSource&repo=NepaliLang&theme=transparent&hide_border=true" alt="NepaliCode repository stats" width="420"></a>
-</p>
-
 <p align="center">
   <a href="https://github.com/NepaliSource/NepaliLang/actions/workflows/update-metrics.yml"><img src="docs/assets/repo-metrics.svg" alt="Live NepaliCode repository metrics" width="920"></a>
 </p>
