@@ -100,4 +100,4 @@ if (heroSubtitle) {
 
 // Console welcome message
 console.log('%c🇳🇵 NepaliCode - Programming from Nepal', 'font-size: 24px; font-weight: bold; color: #6366f1;');
-console.log('%chttps://github.com/DiwasKhatri07/NepaliLang', 'font-size: 14px; color: #64748b;');
+console.log('%chttps://github.com/NepaliSource/NepaliLang', 'font-size: 14px; color: #64748b;');

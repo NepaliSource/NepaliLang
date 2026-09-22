@@ -19,4 +19,4 @@ The original uploaded files are preserved alongside the optimized, URL-safe copi
 
 ## Live browser player
 
-For reliable inline MP4 playback with controls, muted autoplay, looping, a GIF fallback, and the complete screenshot gallery, open the [NepaliCode Showcase Player](https://diwaskhatri07.github.io/NepaliLang/showcase.html).
+For reliable inline MP4 playback with controls, muted autoplay, looping, a GIF fallback, and the complete screenshot gallery, open the [NepaliCode Showcase Player](https://nepalisource.github.io/NepaliLang/showcase.html).

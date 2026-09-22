@@ -88,8 +88,8 @@ nepali.exe --version
 
 ## 📚 Documentation
 
-- **Website:** https://diwaskhatri07.github.io/NepaliLang/
-- **GitHub:** https://github.com/DiwasKhatri07/NepaliLang
+- **Website:** https://nepalisource.github.io/NepaliLang/
+- **GitHub:** https://github.com/NepaliSource/NepaliLang
 - **Examples:** 50+ examples covering all features
 - **Syntax Reference:** Complete language guide
 - **Standard Library:** Module documentation
@@ -120,9 +120,9 @@ This is an alpha release. Some advanced features are foundations/experimental:
 
 NepaliCode is open source (MIT License). Contributions welcome!
 
-- **GitHub:** https://github.com/DiwasKhatri07/NepaliLang
-- **Issues:** https://github.com/DiwasKhatri07/NepaliLang/issues
-- **Discussions:** https://github.com/DiwasKhatri07/NepaliLang/discussions
+- **GitHub:** https://github.com/NepaliSource/NepaliLang
+- **Issues:** https://github.com/NepaliSource/NepaliLang/issues
+- **Discussions:** https://github.com/NepaliSource/NepaliLang/discussions
 
 ## 📄 License
 

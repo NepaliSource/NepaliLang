@@ -36,7 +36,7 @@ The NepaliCode all-in-one installer has been successfully built and pushed to Gi
 ### 📋 **Next Steps - Create GitHub Release:**
 
 **Step 1: Go to GitHub Releases**
-1. Visit: https://github.com/DiwasKhatri07/NepaliLang/releases
+1. Visit: https://github.com/NepaliSource/NepaliLang/releases
 2. Click "Create a new release"
 
 **Step 2: Configure Release**
@@ -52,7 +52,7 @@ The NepaliCode all-in-one installer has been successfully built and pushed to Gi
 - Click "Publish release"
 
 ### 🔗 **Release Will Be Available At:**
-**https://github.com/DiwasKhatri07/NepaliLang/releases/tag/v0.1.0-alpha**
+**https://github.com/NepaliSource/NepaliLang/releases/tag/v0.1.0-alpha**
 
 ### 🎨 **Release Notes Content:**
 
@@ -125,8 +125,8 @@ After running the installer, users will have:
 - Installation guide
 
 ### 🌐 **Repository Status:**
-- **GitHub:** https://github.com/DiwasKhatri07/NepaliLang
-- **Website:** https://diwaskhatri07.github.io/NepaliLang/ (after enabling Pages)
+- **GitHub:** https://github.com/NepaliSource/NepaliLang
+- **Website:** https://nepalisource.github.io/NepaliLang/ (after enabling Pages)
 - **Installer:** Ready in `dist/` folder
 - **Release:** Ready to create on GitHub
 

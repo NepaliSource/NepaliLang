@@ -1,23 +1,23 @@
 # NepaliCode 🇳🇵
 
 <p align="center">
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/stargazers">
-    <img src="https://img.shields.io/github/stars/DiwasKhatri07/NepaliLang?style=social" alt="GitHub Stars">
+  <a href="https://github.com/NepaliSource/NepaliLang/stargazers">
+    <img src="https://img.shields.io/github/stars/NepaliSource/NepaliLang?style=social" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/forks">
-    <img src="https://img.shields.io/github/forks/DiwasKhatri07/NepaliLang?style=social" alt="GitHub Forks">
+  <a href="https://github.com/NepaliSource/NepaliLang/forks">
+    <img src="https://img.shields.io/github/forks/NepaliSource/NepaliLang?style=social" alt="GitHub Forks">
   </a>
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/issues">
-    <img src="https://img.shields.io/github/issues/DiwasKhatri07/NepaliLang" alt="GitHub Issues">
+  <a href="https://github.com/NepaliSource/NepaliLang/issues">
+    <img src="https://img.shields.io/github/issues/NepaliSource/NepaliLang" alt="GitHub Issues">
   </a>
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/DiwasKhatri07/NepaliLang" alt="License">
+  <a href="https://github.com/NepaliSource/NepaliLang/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/NepaliSource/NepaliLang" alt="License">
   </a>
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/releases">
-    <img src="https://img.shields.io/github/v/release/DiwasKhatri07/NepaliLang" alt="Release">
+  <a href="https://github.com/NepaliSource/NepaliLang/releases">
+    <img src="https://img.shields.io/github/v/release/NepaliSource/NepaliLang" alt="Release">
   </a>
-  <a href="https://diwaskhatri07.github.io/NepaliLang/">
-    <img src="https://img.shields.io/website/diwaskhatri07.github.io/NepaliLang?style=flat-square" alt="Website">
+  <a href="https://nepalisource.github.io/NepaliLang/">
+    <img src="https://img.shields.io/website/nepalisource.github.io/NepaliLang?style=flat-square" alt="Website">
   </a>
 </p>
 
@@ -38,41 +38,41 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DiwasKhatri07.NepaliLang&left_text=Visitors&left_color=101827&right_color=dc143c" alt="Repository visitor counter">
-  <img src="https://img.shields.io/github/commit-activity/y/DiwasKhatri07/NepaliLang?label=Activity&color=2ea043" alt="Yearly commit activity">
-  <img src="https://img.shields.io/github/last-commit/DiwasKhatri07/NepaliLang?label=Updated&color=2b6cb0" alt="Last commit">
-  <img src="https://img.shields.io/github/repo-size/DiwasKhatri07/NepaliLang?label=Repo%20size&color=6f42c1" alt="Repository size">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NepaliSource.NepaliLang&left_text=Visitors&left_color=101827&right_color=dc143c" alt="Repository visitor counter">
+  <img src="https://img.shields.io/github/commit-activity/y/NepaliSource/NepaliLang?label=Activity&color=2ea043" alt="Yearly commit activity">
+  <img src="https://img.shields.io/github/last-commit/NepaliSource/NepaliLang?label=Updated&color=2b6cb0" alt="Last commit">
+  <img src="https://img.shields.io/github/repo-size/NepaliSource/NepaliLang?label=Repo%20size&color=6f42c1" alt="Repository size">
 </p>
 
 <p align="center">
-  <a href="https://github.com/DiwasKhatri07/NepaliLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DiwasKhatri07&repo=NepaliLang&theme=transparent&hide_border=true" alt="NepaliCode repository stats" width="420"></a>
+  <a href="https://github.com/NepaliSource/NepaliLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NepaliSource&repo=NepaliLang&theme=transparent&hide_border=true" alt="NepaliCode repository stats" width="420"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/actions/workflows/update-metrics.yml"><img src="docs/assets/repo-metrics.svg" alt="Live NepaliCode repository metrics" width="920"></a>
+  <a href="https://github.com/NepaliSource/NepaliLang/actions/workflows/update-metrics.yml"><img src="docs/assets/repo-metrics.svg" alt="Live NepaliCode repository metrics" width="920"></a>
 </p>
 
 ## 🎬 Visual Showcase
 
 <p align="center">
-  <a href="https://diwaskhatri07.github.io/NepaliLang/showcase.html">
+  <a href="https://nepalisource.github.io/NepaliLang/showcase.html">
     <img src="showcase/nepalicode-preview.gif" alt="NepaliCode Preview" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://diwaskhatri07.github.io/NepaliLang/showcase.html">
+  <a href="https://nepalisource.github.io/NepaliLang/showcase.html">
     <img src="https://img.shields.io/badge/▶_Watch_Full_Video-dc143c?style=for-the-badge" alt="Watch Video">
   </a>
   <a href="showcase/README.md">
     <img src="https://img.shields.io/badge/🖼_View_Screenshots-2b3c55?style=for-the-badge" alt="Screenshots">
   </a>
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/archive/refs/heads/main.zip">
+  <a href="https://github.com/NepaliSource/NepaliLang/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/⬇_Download_Source-2ea043?style=for-the-badge" alt="Download">
   </a>
 </p>
 
-> **NepaliCode** is a modern programming language from Nepal with native keywords, Unicode support, and a bytecode VM. [Explore the docs](docs/) or [watch the demo](https://diwaskhatri07.github.io/NepaliLang/showcase.html).
+> **NepaliCode** is a modern programming language from Nepal with native keywords, Unicode support, and a bytecode VM. [Explore the docs](docs/) or [watch the demo](https://nepalisource.github.io/NepaliLang/showcase.html).
 
 <p align="center">
   <img src="showcase/editor-showcase.png" alt="NepaliCode editor with syntax highlighting" width="49%">
@@ -101,10 +101,10 @@
 ### 📥 Download Installer
 
 <p align="center">
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/releases">
+  <a href="https://github.com/NepaliSource/NepaliLang/releases">
     <img src="https://img.shields.io/badge/download-windows-informational.svg" alt="Download Windows">
   </a>
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/releases">
+  <a href="https://github.com/NepaliSource/NepaliLang/releases">
     <img src="https://img.shields.io/badge/release-v0.1.0--alpha-orange.svg" alt="Release">
   </a>
 </p>
@@ -121,7 +121,7 @@
 
 **Option 2: Using Python (Development)**
 ```bash
-git clone https://github.com/DiwasKhatri07/NepaliLang.git
+git clone https://github.com/NepaliSource/NepaliLang.git
 cd NepaliLang
 python main.py examples/01_hello_world.np
 ```
@@ -339,13 +339,13 @@ python main.py examples/01_hello_world.np
 
 ## 📚 Documentation
 
-- 🌐 **Website:** https://diwaskhatri07.github.io/NepaliLang/
+- 🌐 **Website:** https://nepalisource.github.io/NepaliLang/
 - 📖 **Installation Guide:** [docs/installation.html](docs/installation.html)
 - 🎯 **First Program:** [docs/first_program.html](docs/first_program.html)
 - 📝 **Syntax Reference:** [docs/syntax.html](docs/syntax.html)
 - 📚 **Standard Library:** [docs/stdlib.html](docs/stdlib.html)
 - 💡 **Examples Catalog:** [docs/examples.html](docs/examples.html)
-- 🔧 **GitHub Repository:** https://github.com/DiwasKhatri07/NepaliLang
+- 🔧 **GitHub Repository:** https://github.com/NepaliSource/NepaliLang
 
 ---
 
@@ -428,25 +428,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌐 Links
 
 <p align="center">
-  <a href="https://github.com/DiwasKhatri07/NepaliLang">
+  <a href="https://github.com/NepaliSource/NepaliLang">
     <img src="https://img.shields.io/badge/GitHub-Repository-blue.svg" alt="GitHub">
   </a>
-  <a href="https://diwaskhatri07.github.io/NepaliLang/">
+  <a href="https://nepalisource.github.io/NepaliLang/">
     <img src="https://img.shields.io/badge/Website-success.svg" alt="Website">
   </a>
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/issues">
+  <a href="https://github.com/NepaliSource/NepaliLang/issues">
     <img src="https://img.shields.io/badge/Issues-important.svg" alt="Issues">
   </a>
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/discussions">
+  <a href="https://github.com/NepaliSource/NepaliLang/discussions">
     <img src="https://img.shields.io/badge/Discussions-success.svg" alt="Discussions">
   </a>
 </p>
 
-- **GitHub Repository:** https://github.com/DiwasKhatri07/NepaliLang
-- **Documentation:** https://diwaskhatri07.github.io/NepaliLang/
-- **Releases:** https://github.com/DiwasKhatri07/NepaliLang/releases
-- **Issues:** https://github.com/DiwasKhatri07/NepaliLang/issues
-- **Discussions:** https://github.com/DiwasKhatri07/NepaliLang/discussions
+- **GitHub Repository:** https://github.com/NepaliSource/NepaliLang
+- **Documentation:** https://nepalisource.github.io/NepaliLang/
+- **Releases:** https://github.com/NepaliSource/NepaliLang/releases
+- **Issues:** https://github.com/NepaliSource/NepaliLang/issues
+- **Discussions:** https://github.com/NepaliSource/NepaliLang/discussions
 - **Email:** diwaskhatri@proton.me
 
 ---
@@ -671,7 +671,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📦 Downloads
 
 <p align="center">
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/releases">
+  <a href="https://github.com/NepaliSource/NepaliLang/releases">
     <img src="https://img.shields.io/badge/download--releases-success.svg" alt="Downloads">
   </a>
   <img src="https://img.shields.io/badge/platform--windows-lightgrey.svg" alt="Platform">
@@ -684,7 +684,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ⚡ `nepali.exe` (9.0 MB) - Standalone runtime
 
 **Source Code:**
-- 📦 Clone repository: `git clone https://github.com/DiwasKhatri07/NepaliLang.git`
+- 📦 Clone repository: `git clone https://github.com/NepaliSource/NepaliLang.git`
 
 ---
 
@@ -729,17 +729,17 @@ nepali.exe hello.np
 ## 📞 Support
 
 <p align="center">
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/issues">
+  <a href="https://github.com/NepaliSource/NepaliLang/issues">
     <img src="https://img.shields.io/badge/support--issues-blue.svg" alt="Support">
   </a>
-  <a href="https://github.com/DiwasKhatri07/NepaliLang/discussions">
+  <a href="https://github.com/NepaliSource/NepaliLang/discussions">
     <img src="https://img.shields.io/badge/support--discussions-success.svg" alt="Support">
   </a>
   <img src="https://img.shields.io/badge/support--email-informational.svg" alt="Support">
 </p>
 
-- 🐛 **Issues:** https://github.com/DiwasKhatri07/NepaliLang/issues
-- 💬 **Discussions:** https://github.com/DiwasKhatri07/NepaliLang/discussions
+- 🐛 **Issues:** https://github.com/NepaliSource/NepaliLang/issues
+- 💬 **Discussions:** https://github.com/NepaliSource/NepaliLang/discussions
 - 📧 **Email:** diwaskhatri@proton.me
 
 ---
