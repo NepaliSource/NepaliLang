@@ -1,7 +1,4 @@
-"""
-NepaliCode - Built-in Editor for NepaliLang
-A simple IDE with syntax highlighting and code execution.
-"""
+
 
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
@@ -9,7 +6,6 @@ import os
 import sys
 import threading
 
-# Add parent directory to path for imports
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from src.lexer import tokenize
@@ -27,11 +23,11 @@ class NepaliCode:
         self.setup_ui()
         
     def setup_ui(self):
-        # Create menu bar
+        
         menubar = tk.Menu(self.root)
         self.root.config(menu=menubar)
         
-        # File menu
+        # add many programs #build2402
         file_menu = tk.Menu(menubar, tearoff=0)
         menubar.add_cascade(label="File", menu=file_menu)
         file_menu.add_command(label="New", command=self.new_file)
